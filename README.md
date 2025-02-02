@@ -1,9 +1,9 @@
-<h1>Day 1 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 1 challenge, I created a Band Name Generator concatenates your hometown's name and pet's name to form a band name. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<h1>Day 5 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
+<p>For the Day 1 challenge, I created a Password Generator that gathers input on the number of letter, symbol and numbers that a user wants and generates a randomised password. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
-  <li>print function</li>
-  <li>variable and naming conventions</li>
-  <li>input function</li>
+  <li>for loop</li>
+  <li>conditional if statements</li>
+  <li>range function</li>
 </ul>
 
 <h2>Why am I doing this?</h2>
